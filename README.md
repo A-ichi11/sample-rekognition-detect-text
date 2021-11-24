@@ -1,0 +1,1 @@
+# sample-rekognition-detect-text
